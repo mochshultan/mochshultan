@@ -8,7 +8,7 @@
 ---
 
 ### 🎯 About Me
-I'm a passionate **Robotics Engineering Student** at **Airlangga University, Indonesia**, specializing in **Robot Operating System (ROS)** and autonomous systems. My journey in robotics focuses on developing intelligent systems that can perceive, navigate, and interact with the world around them.
+I'm a passionate **Robotics Engineering Student** at **Airlangga University, Indonesia**, specializing in **Robot Operating System (ROS)**, autonomous systems and IoT. My journey in robotics focuses on developing intelligent systems that can perceive, navigate, and interact with the world around them.
 
 **🔬 Current Focus Areas:**
 - **ROS/ROS2 Development** - Building robust robotic applications
