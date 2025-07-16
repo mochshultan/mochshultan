@@ -133,7 +133,7 @@ I'm a passionate **Robotics Engineering Student** at **Airlangga University, Ind
 
 #### **Hardware & Electronics**
 - **Microcontrollers** - Arduino, STM32, ESP32
-- **Single Board Computers** - Raspberry Pi, Jetson Nano
+- **Single Board Computers** - Raspberry Pi
 - **Sensors & Actuators** - Motor control, sensor calibration
 - **PCB Design** - Circuit design, prototyping
 
