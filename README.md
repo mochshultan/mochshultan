@@ -1,5 +1,5 @@
 # 🤖 Moch Shultan Ali S
-## Robotics Engineering Student | ROS Developer | Automation Enthusiast
+## Robotics Engineering Student | ROS Enthusiast | AIoT Enthusiast
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Building+the+Future+with+Robots;ROS+%7C+Python+%7C+C%2B%2B;Computer+Vision+%7C+SLAM;Automation+%7C+Control+Systems" alt="Typing SVG" />
